@@ -1,0 +1,16 @@
+
+.background-image{
+  background-image: url("https://th.bing.com/th/id/R.e335961ad5b95bb9e0e29bac6919131e?rik=FqsX%2bV0ya2i0cA&riu=http%3a%2f%2f2.bp.blogspot.com%2f-GZl9xt51B9c%2fUeJ2Erer8gI%2fAAAAAAAABBc%2fOSpMAiu9qYk%2fs1600%2fvector.jpg&ehk=GPTaeNwFKcYo%2bCzkBTXg11XiFaRqURfa9EadAsni5Bo%3d&risl=&pid=ImgRaw&r=0&sres=1&sresct=1"); background-position: center;
+}
+
+.grey-bg{
+  background-color: grey;
+}
+
+.Spills{
+  position: absolute; bottom 10px;
+}
+
+.the-hidden{
+  
+}
