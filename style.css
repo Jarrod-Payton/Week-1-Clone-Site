@@ -11,6 +11,11 @@
   position: absolute; bottom 10px;
 }
 
-.the-hidden{
-  
+@media screen and (max-width: 789px)
+{
+  .the-hidden { display: none;}
+}
+
+.Block-Font {
+  font-family: 'Bebas Neue', cursive;
 }
