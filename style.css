@@ -19,3 +19,9 @@
 .Block-Font {
   font-family: 'Bebas Neue', cursive;
 }
+
+@media screen and (min-width: 789px){
+  .card-spill-ting{
+    transform: translate(10px, 150px);
+  }
+}
